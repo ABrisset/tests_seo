@@ -1,5 +1,5 @@
 #test2::after {
-  content: "Voici un deuxième mot inventé avec 0 résultat Google : testseocssaftercontentfile2"
+  content: "Voici un deuxième mot inventé avec 0 résultat Google : seotestcssaftercontentfile2"
 }
 #test3::after {
   content: attr(data-content);
