@@ -2,5 +2,5 @@
   content: "Voici un deuxième mot inventé avec 0 résultat Google : testseocssaftercontentfile2"
 }
 #test3::after {
-  content: "Voici un troisième mot inventé avec 0 résultat Google : testseocssaftercontentattrfile3"
+  content: attr(data-content);
 }
