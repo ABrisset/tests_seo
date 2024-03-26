@@ -1,0 +1,6 @@
+#test2::after {
+  content: "Ce texte est généré via la propriété CSS content et le pseudo-élement after. La déclaration est faite via un fichier CSS externe. J'ajoute un mot inventé : testseocssaftercontentfile2"
+}
+#test3::after {
+  content: "Ce texte est généré via la propriété CSS content, le pseudo-élement after et la fonction attr. La déclaration est faite via un fichier CSS externe. J'ajoute un mot inventé : testseocssaftercontentattrfile3"
+}
